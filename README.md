@@ -1,2 +1,2 @@
-# Matt-s-Profile
+# Matts-Profile
 My first GitHub website
