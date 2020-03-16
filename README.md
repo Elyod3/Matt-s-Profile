@@ -7,7 +7,7 @@
 
 
 ## Personal information: 
-Alt-H1Matthew Doyle
+Alt-H1
 
 
 Student email: 
