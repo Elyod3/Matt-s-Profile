@@ -1,8 +1,11 @@
 
 
 ## Personal information: 
+Matthew Doyle
+Student email: S3858024@student.rmit.edu.au
+Student number: S3858024
 
-Gvhdbdfbihih n uhdf9 fkihfcbib. Whwfbwbc isibfi hwifhsiuc hsid ow hfijsijcifgwiebijdsh9qerhkheqbr9v8yeifb aiudhifdbijdfs hf9v eioerh
+I was born In Brisbane and grew up in Brisbane North. I graduated high school in 2006 and started working at EB Games while completing a diploma in Justice. I worked a bit in security and then worked with the Australian Taxation Office in Facilities Management. 
 
 ## What are my interts in IT
 
