@@ -1,3 +1,16 @@
-About me:
+Personal information: 
 
-I was born in Brisbane and grew up North of Brisbane. 
+Gvhdbdfbihih n uhdf9 fkihfcbib. Whwfbwbc isibfi hwifhsiuc hsid ow hfijsijcifgwiebijdsh9qerhkheqbr9v8yeifb aiudhifdbijdfs hf9v eioerh
+
+What are my interts in IT
+
+Well bcishi cjsnc
+Df
+Vd
+D
+G
+
+G
+Fgfgfdgnsiv hdibiufb viushovihovhfdohv oidfhvoudfhvoud
+Dflkvndfo vhdhvidfvudhvuhsvhsuhvifviuf
+Shvsohvi shviushviugsivugsdiu vgifdugviudsfgviufdgvigdf
