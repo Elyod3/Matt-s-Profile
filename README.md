@@ -25,5 +25,5 @@ Growing up I was always interested in IT and a space nerd. Mum took me to get my
 
 My first real taste of IT was one and  of my early jobs at a data centre where i worked in security.  I was so fascinated by what each little piece of equipment did and the people working there seemed to love what they did.  
 
-From there I found a passion for the legal system and completed a diploma in Justice while also working at the tax office and hoping to become a police office. As life progressed I realised back to my original passion I wanted to work in IT. 
+From there I found a passion for the legal system and completed a diploma in Justice while also working at the tax office and hoping to become a police officer. As life progressed I realised back to my original passion I wanted to work in IT. 
 
