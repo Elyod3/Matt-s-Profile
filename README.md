@@ -2,12 +2,7 @@
 
 
 
-
-
-
-
 ## Personal information: 
-Alt-H1
 
 
 Student email: 
