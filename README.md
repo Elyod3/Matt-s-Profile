@@ -15,3 +15,6 @@ I was born In Brisbane and grew up in Brisbane North. I graduated high school in
 ## What are my interests in IT
 
 [click here to go to google](https://www.google.com)
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
