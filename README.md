@@ -18,8 +18,11 @@ S3858024
 
 I was born In Brisbane and grew up in Brisbane North. I graduated high school in 2006 and started working at EB Games while completing a diploma in Justice. I worked a bit in security and then worked with the Australian Taxation Office in Facilities Management. 
 
-## What are my interests in IT
+## Interests in IT
 
-[click here to go to google](https://www.google.com)
+Growing up I was always interested in IT and a space nerd. Mum took me to get my first computer (which my sister got jealous) and from there got a real understanding and hobby learning about computers and software programs.  
 
+My first real taste of IT was one and  of my early jobs at a data centre where i worked in security.  I was so fascinated by what each little piece of equipment did and the people working there seemed to love what they did.  
+
+From there I found a passion for the legal system and completed a diploma in Justice while also working at the tax office and hoping to become a police office. As life progressed I realised back to my original passion I wanted to work in IT. 
 
