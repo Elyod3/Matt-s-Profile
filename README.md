@@ -1,4 +1,4 @@
-<image src="me.jpg">
+
 
 ## Personal information: 
 
