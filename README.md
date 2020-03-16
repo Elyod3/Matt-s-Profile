@@ -17,4 +17,4 @@ I was born In Brisbane and grew up in Brisbane North. I graduated high school in
 [click here to go to google](https://www.google.com)
 
 
-![alt text](<a href="https://imgur.com/bsOorc4"><img src="https://i.imgur.com/bsOorc4.jpg" title="source: imgur.com" /></a>)
+<a href="https://imgur.com/bsOorc4"><img src="https://i.imgur.com/bsOorc4.jpg?1" title="source: imgur.com" /></a>
