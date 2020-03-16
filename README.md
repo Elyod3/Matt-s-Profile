@@ -14,4 +14,4 @@ I was born In Brisbane and grew up in Brisbane North. I graduated high school in
 
 ## What are my interts in IT
 
-[I'm an inline-style link](https://www.google.com)
+[click here to go to google](https://www.google.com)
