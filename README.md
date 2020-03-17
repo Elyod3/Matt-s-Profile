@@ -40,8 +40,8 @@ Qualifcations for this career:
 | Qualification required                    | Qualification currently have  |
 | ------------------------                  | -------------------           |
 | Degree in Information Technology          |                               |
-| join the Australian Computer Society (ACS)                                                          
-
+| Join the Australian Computer Society (ACS)|                               |                           
+| Continuing Professional Development (CPD) |                               |
 
 
 
