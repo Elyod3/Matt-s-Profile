@@ -43,7 +43,7 @@ Qualifcations for this career:
 | Join the Australian Computer Society (ACS)|                               |                           
 | Continuing Professional Development (CPD) |                               |
 
-
+Looking at this chart gives a brief example of the qualtions required for a job as a Database Administrator and ongoing requirement, plus a comparitive on the qualifications I currentrly have. 
 
 
 
