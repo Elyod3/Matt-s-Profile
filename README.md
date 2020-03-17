@@ -46,6 +46,16 @@ Qualifcations for this career:
 Looking at this chart gives a brief example of the qualifications required for a job as a Database Administrator and ongoing requirement, plus a comparitive on the qualifications I currentrly have. 
 
 
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
+
+
+
 
 
 
