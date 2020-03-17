@@ -26,3 +26,20 @@ What lead me to RMIT initially was looking at lots of University's with a focus 
 
 Two intersting thing about me is when I was younger I was a junior champion in tennis and I once fell off a horse and broke both my wrists. 
 
+## Ideal Job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Personal Profile
+
