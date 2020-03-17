@@ -28,7 +28,8 @@ Two intersting thing about me is when I was younger I was a junior champion in t
 
 ## Ideal Job
 
-[Database Administrator](https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a)
+[Database Administrator](https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a) This link will take you to my chosen career in seek. 
+
 
 
 
