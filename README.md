@@ -38,7 +38,7 @@ The role appeals to me in that it's somewhat familiar with my past jobs in maint
 Qualifcations for this career 
 
 | Qualification                     | 
-| -------------                     |
+| ------------------------          |
 | Degree in Information Technology  |
 | col 2 is                          | 
 | zebra stripes                     | 
