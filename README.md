@@ -24,5 +24,5 @@ From there I found a passion for the legal system and completed a diploma in Jus
 
 What lead me to RMIT initially was looking at lots of University's with a focus of IT and flexability with distance. Upon looking at reviews, RMIT looked most suitable to what my needs were and focus for what I'm studying. 
 
-One intersting thing about me is when I was younger I was a junior champion in tennis.
+Two intersting thing about me is when I was younger I was a junior champion in tennis and I once fell off a horse and broke both my wrists. 
 
