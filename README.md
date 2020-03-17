@@ -22,5 +22,7 @@ My first real taste of IT was one and  of my early jobs at a data centre where i
 
 From there I found a passion for the legal system and completed a diploma in Justice while also working at the tax office and hoping to become a police officer. As life progressed I realised back to my original passion I wanted to work in IT. 
 
+What lead me to RMIT initially was looking at lots of University's with a focus of IT and flexability with distance. Upon looking at reviews, RMIT looked most suitable to what my needs were and focus for what I'm studying. 
+
 One intersting thing about me is when I was younger I was a junior champion in tennis.
 
