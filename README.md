@@ -33,6 +33,8 @@ Two intersting thing about me is when I was younger I was a junior champion in t
 As you can see, my chosen career is a database Administrator. 
 The role and in general with Database Administrators (DBA) involes the integrity and security of the company's database (the internet police). They analyse data incoming and outgoing. Make sure backups are running smoothly and troubleshoot any issues that arise. 
 
+The role appeals to me in that it's somewhat familiar with my past jobs in maintaining a wide level of different legislation and work policies and outlining these practises to staff. It also brings together my Diploma in Justice to create an understanding of security protocol surrounding database security. 
+
 
 
 
