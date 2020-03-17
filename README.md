@@ -35,13 +35,12 @@ The role and in general with Database Administrators (DBA) involes the integrity
 
 The role appeals to me in that it's somewhat familiar with my past jobs in maintaining a wide level of different legislation and work policies and outlining these practises to staff. It also brings together my Diploma in Justice to create an understanding of security protocols surrounding database. 
 
-Qualifcations for this career 
+Qualifcations for this career: 
 
-| Qualification required            | Qualification currently have  |
-| ------------------------          | -------------------           |
-| Degree in Information Technology  |                               |
-|                                   |                               |
-|                                   |                               |
+| Qualification required                    | Qualification currently have  |
+| ------------------------                  | -------------------           |
+| Degree in Information Technology          |                               |
+| join the Australian Computer Society (ACS)                                                          
 
 
 
