@@ -43,13 +43,10 @@ Qualifcations for this career:
 | Join the Australian Computer Society (ACS)|                               |                           
 | Continuing Professional Development (CPD) |                               |
 
-Looking at this chart gives a brief example of the qualifications required for a job as a Database Administrator and ongoing requirement, plus a comparitive on the qualifications I currentrly have. 
+Looking at this chart gives a brief example of the qualifications required for a job as a Database Administrator and ongoing requirement, plus a comparative on the qualifications I currently have which is quite minimal for IT related. The desired academic for a DBA is a Bachelor's in Information Technology and a mininal level of expereince within the field. My advantages while minimal within professional experiences in IT, I have been employed very cloesly to IT professionals and have gained a slight understanding within.  
 
+A great steppingstone into a Database Administrator role is through a IT Helpdesk role. This will give me a entry level job in the IT field and gain professional experience. This can be used later on in my career path for my desired goal. RMIT will give me the educational requirement to apply, while a IT Helpdesk job will give me experience. 
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
 
 
 
