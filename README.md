@@ -37,11 +37,11 @@ The role appeals to me in that it's somewhat familiar with my past jobs in maint
 
 Qualifcations for this career 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Qualification             | Are           | Cool  |
+| -------------             |:-------------:| -----:|
+| col 3 is                  | right-aligned | $1600 |
+| col 2 is                  | centered      |   $12 |
+| zebra stripes             | are neat      |    $1 |
 
 
 
