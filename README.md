@@ -39,7 +39,7 @@ Qualifcations for this career:
 
 | Qualification required                    | Qualification currently have  |
 | ------------------------                  | -------------------           |
-| Degree in Information Technology          |                               |
+| Degree in Information Technology          | Diploma in Justice            |
 | Join the Australian Computer Society (ACS)|                               |                           
 | Continuing Professional Development (CPD) |                               |
 
