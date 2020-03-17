@@ -28,8 +28,7 @@ Two intersting thing about me is when I was younger I was a junior champion in t
 
 ## Ideal Job
 
-https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a
-
+[Go to the Support Web Site](https://support.west-wind.com)
 
 
 
