@@ -28,7 +28,7 @@ Two intersting thing about me is when I was younger I was a junior champion in t
 
 ## Ideal Job
 
-[My chosen career outcome](https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a
+[My chosen career outcome](https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a)
 
 
 
