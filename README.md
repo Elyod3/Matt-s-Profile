@@ -22,3 +22,5 @@ My first real taste of IT was one and  of my early jobs at a data centre where i
 
 From there I found a passion for the legal system and completed a diploma in Justice while also working at the tax office and hoping to become a police officer. As life progressed I realised back to my original passion I wanted to work in IT. 
 
+One intersting thing about me is when I was younger I was a junior champion in tennis.
+
