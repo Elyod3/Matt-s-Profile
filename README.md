@@ -30,7 +30,7 @@ Two intersting thing about me is when I was younger I was a junior champion in t
 
 [Database Administrator](https://www.seek.com.au/job/41161610?type=standout#searchRequestToken=096db453-996f-4182-b5b1-909a9f96e03a) This link will take you to my chosen career in seek. 
 
-As you can see, my chosen career is a data Administraor. 
+As you can see, my chosen career is a data Administrator. 
 The role and in general with Database Administrators involes the integrity and security of the company's database (the internet police). They analyse data incoming and outgoing. Make sure backups are running smoothly and troubleshoot any issues that arise. 
 
 
