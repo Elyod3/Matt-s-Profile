@@ -47,12 +47,18 @@ Looking at this chart gives a brief example of the qualifications required for a
 
 A great steppingstone into a DBA role is through a IT Helpdesk role. This will give me a entry level job in the IT field and gain professional experience. This can be used later on in my career path for my desired goal. RMIT will give me the educational requirement to apply, while a IT Helpdesk job will give me experience. 
 
-
-
-
-
-
-
-
 ## Personal Profile
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Project Idea
