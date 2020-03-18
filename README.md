@@ -49,7 +49,7 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 ## Personal Profile
 
-Im an E.F.N.J.
+Im an E.N.F.J.
 
 
 
