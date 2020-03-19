@@ -51,8 +51,10 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 The varies results I completed for my personality and learning style are from the list as follows:
 
-* Myers-Briggs - result, E.N.F.J. 
-This stands for Extraversion - Intuition - Feeling - Judging 
+* Myers-Briggs - result; E.N.F.J. 
+This stands for; Extraversion - Intuition - Feeling - Judging 
+
+* Learning style test - result; 
 
 
 
