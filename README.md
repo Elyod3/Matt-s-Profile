@@ -59,7 +59,7 @@ This stands for; Extraversion - Intuition - Feeling - Judging
 * Creativity test - result; 53 - Above average 
 
 To analyse these tests what this means to me, we need to look at each test individually and then as a whole to sum up a conclusion.
-The Myers-Briggs test as shown above indicates that I am a ENFJ.  
+The Myers-Briggs test as shown above indicates that I am a ENFJ. These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitionus.  
 
 
 
