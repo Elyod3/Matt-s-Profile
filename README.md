@@ -51,14 +51,7 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 The varies tests i completed are from the list as follows:
 
-First ordered list item
-Another item
-Unordered sub-list.
-Actual numbers don't matter, just that it's a number
-
-Ordered sub-list
-
-And another item
+* knfkn
 
 
 
