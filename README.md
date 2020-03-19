@@ -58,6 +58,9 @@ These types of people are warm, energetic, forward thinking, visionary, compassi
 
 * [Learning style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=2&V=9&T=9-) - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
+This result tells me I remember more things by sight and picture what i'm learning in my head. 
+As a tactile learner, I learn better by touching and doing. I remember by things I have done, but difficult remembering what I heard in the process. 
+
 * Creativity test - result; 53 - Above average 
 
  
