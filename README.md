@@ -53,15 +53,15 @@ The varies results I completed for my personality and learning style are from th
 
 * Myers-Briggs - result; E.N.F.J. 
 This stands for; Extraversion - Intuition - Feeling - Judging 
+These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious.  
 
 * Learning style test - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
 * Creativity test - result; 53 - Above average 
 
-To analyse these tests what this means to me, we need to look at each test individually and then as a whole to sum up a conclusion.
-The [Myers-Briggs](https://www.truity.com/personality-test/17335/test-results/17049445) test as shown above indicates that I am a ENFJ. These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious.  
+ 
 
-
+Talk about all 3 tests as a whole and what it means
 
 
 
