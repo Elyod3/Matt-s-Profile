@@ -56,9 +56,10 @@ This stands for; Extraversion - Intuition - Feeling - Judging
 
 * Learning style test - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
-* 
+* Creativity test - result; 53 - Above average 
 
-
+To analyse these tests what this means to me, we need to look at each test individually and then as a whole to sum up a conclusion.
+The Myers-Briggs test as shown above indicates that I am a ENFJ.  
 
 
 
