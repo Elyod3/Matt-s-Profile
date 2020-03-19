@@ -51,7 +51,7 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 The varies results I completed for my personality and learning style are from the list as follows:
 
-* [Myers-Briggs](https://www.truity.com/personality-test/17335/test-results/17049445)- result; E.N.F.J. 
+* [Myers-Briggs](https://www.truity.com/personality-test/17335/test-results/17049445) - result; E.N.F.J. 
 This stands for; Extraversion - Intuition - Feeling - Judging 
 
 These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious.  
