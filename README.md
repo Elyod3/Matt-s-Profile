@@ -56,7 +56,7 @@ This stands for; Extraversion - Intuition - Feeling - Judging
 
 These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious.  
 
-* .[Learning style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=2&V=9&T=9-) result; Auditory: 10% - Visual: 45% - Tactile: 45%
+* [Learning style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=2&V=9&T=9-) result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
 * Creativity test - result; 53 - Above average 
 
