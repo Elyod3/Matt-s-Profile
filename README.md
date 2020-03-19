@@ -54,9 +54,9 @@ The varies results I completed for my personality and learning style are from th
 * Myers-Briggs - result; E.N.F.J. 
 This stands for; Extraversion - Intuition - Feeling - Judging 
 
-* Learning style test - result; 
+* Learning style test - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
-
+* 
 
 
 
