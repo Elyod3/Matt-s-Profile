@@ -50,8 +50,15 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 ## Personal Profile
 
 The varies tests i completed are from the list as follows:
-1. 
 
+First ordered list item
+Another item
+Unordered sub-list.
+Actual numbers don't matter, just that it's a number
+
+Ordered sub-list
+
+And another item
 
 
 
