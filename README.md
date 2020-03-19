@@ -49,20 +49,11 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 ## Personal Profile
 
-The varies tests i completed are from the list as follows:
+The varies results I completed for my personality and learning style are from the list as follows:
 
-* knfkn
+* Myers-Briggs - result, E.N.F.J. 
+This stands for Extraversion - Intuition - Feeling - Judging 
 
-
-
-
-
-
-
-
-
-
-Im an E.N.F.J.
 
 
 
