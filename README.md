@@ -49,6 +49,19 @@ A great steppingstone into a DBA role is through a IT Helpdesk role. This will g
 
 ## Personal Profile
 
+The varies tests i completed are from the list as follows:
+1. 
+
+
+
+
+
+
+
+
+
+
+
 Im an E.N.F.J.
 
 
