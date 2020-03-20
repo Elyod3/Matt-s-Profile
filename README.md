@@ -64,7 +64,7 @@ Looking at my results gives a fair idea how I will manage in many things. A big 
 
 There is no clear strategy to forming a team. I think everyone brings different skills to the group that will benefit as a whole. Some people will clash with similar skills and leadership qualities, but everyone will eventually find common ground. A great step into achieving common ground is to find common interests. This creates friendship bonds and works well to move forward in the task at hand. The results from the 3 tests benefit the individual alone and isn't necessarily a positive in telling everyone their results as I feel some people will expect that person to give 100% in that area and that's not a team quality.
 
-## Project Idea
+##### Project Idea
 
 #### Overview 
 
