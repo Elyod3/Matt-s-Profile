@@ -86,7 +86,7 @@ Talking safety, say if there is a speeding car that is around your area, EFAS wi
 
 #### Tools and Technologies
 
-
+The software and hardware will be integrate with the cars Electronic Control Unit (ECU). The software will be incredinley complex. 
 
 
 
