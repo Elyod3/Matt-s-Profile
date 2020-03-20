@@ -66,7 +66,9 @@ There is no clear strategy to forming a team. I think everyone brings different 
 
 ## Project Idea
 
-i have no bloody clue
+My project will be based on a software and hardare system that can be fitted to cars that can create a self aware vehicle and can communicate with other vehicles, emergency vehicles, traffic lights, pedestrains. The benifits of this system are that any vehicles can be upgraded to this hardware. Vehicles that are simililiar to this currently and Tesla vehicles. But these vehicles can be quite expensive for the average consumer. To be clear, this will not create a self driving vehicles (autonmous) but give an extra level of safety, security and awareness for what is around you, near you or has been. The codename for this project is...
+
+PROJECT EFAS
 
 
 
