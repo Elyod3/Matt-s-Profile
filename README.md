@@ -74,7 +74,7 @@ PROJECT EFAS
 
 #### Motivation
 
-There were 1,145 road deaths in 2018 and 38,945 hospitalised injuries in 2016 (BITRE 2019) involving car crashes. 
+There were 1,145 road deaths in 2018 and 38,945 hospitalised injuries in 2016 (BITRE 2019) involving car crashes across Australia. This should motivate anyone trying to find soliuations to fix such an underlining issue that effects everyone.
 
 
 
