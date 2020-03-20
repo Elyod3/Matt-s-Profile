@@ -84,7 +84,34 @@ Some people would think "well it’s just a Navman" but this is where it gets re
 
 Talking safety, say if there is a speeding car that is around your area, EFAS will be able to alert you to the situation to keep yourself and family safe. This can be useful for law enforcement agencies to track the vehicle by using traffic lights and your alert system to get a detailed image where the speeding vehicle is going. Another safety feature is that if your car is stolen it can be immobilised. Avoiding potential high speed collections resulting in fatalities.
 
+#### Tools and Technologies
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Skills Required
+
+
+
+
+
+
+
+
+
+
+
+#### Outcome
 
 
 
