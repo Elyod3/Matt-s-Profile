@@ -53,9 +53,7 @@ The varies results I completed for my personality and learning style are from th
 
 * [Myers-Briggs](https://www.truity.com/personality-test/17335/test-results/17049445) - result; E.N.F.J. 
 This stands for; Extraversion - Intuition - Feeling - Judging 
-
-These types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious.  
-
+  
 * [Learning style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=2&V=9&T=9-) - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
 This result tells me I remember more things by sight and picture what i'm learning in my head. 
@@ -63,7 +61,7 @@ As a tactile learner, I learn better by touching and doing. I remember by things
 
 * Creativity test - result; 53 - Above average 
 
- 
+The results from the Myers-Briggs test tells me that I'm a ENFJ (as shown above) these types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious. The results from the learning Style test shows I remember more things by sight and picture and what i'm learning in my head. Further, as a tactile learner, I learn better by touching and doing. I remember by things I have done, but difficult remembering what I heard in the process. 
 
 
 
