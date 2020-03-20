@@ -68,7 +68,7 @@ There is no clear strategy to forming a team. I think everyone brings different 
 
 #### Overview 
 
-My project will be based on a software and hardare system that can be fitted to cars that can create a self-aware vehicle that can communicate with other vehicles, emergency vehicles, traffic lights, pedestrains. The benifits of this system are that any vehicle can be upgraded to this hardware. Vehicles that are simililiar to this are currently Tesla's but Tesla create vehciles that are autonmous with hardware and software intergarted within oneanother. These vehicles can be quite expensive for the average consumer. To be clear, this will not create a self driving vehicles (autonmous) but give an extra level of safety, security and awareness for what is around you, near you or has been. The codename for this project is...
+My project will be based on a software and hardware system that can be fitted to cars that can create a self-aware vehicle that can communicate with other vehicles, emergency vehicles, traffic lights, pedestrians. The benefits of this system are that any vehicle can be upgraded to this hardware. Vehicles that are similar to this are currently Tesla’s, but Tesla create vehicles that are autonomous with hardware and software integrated within one another. These vehicles can be quite expensive for the average consumer. To be clear, this will not create a self-driving vehicles (autonomous) but give an extra level of safety, security and awareness for what is around you, near you or has been. The codename for this project is...
 
 PROJECT EFAS
 
