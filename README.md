@@ -68,14 +68,13 @@ There is no clear strategy to forming a team. I think everyone brings different 
 
 #### Overview 
 
-My project will be based on a software and hardware system that can be fitted to cars that can create a self-aware vehicle that can communicate with other vehicles, emergency vehicles, traffic lights, pedestrians to create a virtual map which will idicate potential hazards for the driver. The benefits of this system are that any vehicle can be upgraded to this hardware. Vehicles that are similar to this are currently Tesla’s, but Tesla create vehicles that are autonomous with hardware and software integrated within one another. These vehicles can be quite expensive for the average consumer. To be clear, this will not create self-driving vehicles (autonomous) but give an extra level of safety, security and awareness for what is around you or has been. The codename for this project is...
+My project will be based on a software and hardware system that can be fitted to cars that can create a self-aware vehicle that can communicate with other vehicles, emergency vehicles, traffic lights, pedestrians to create a virtual map which will idicate potential hazards for the driver and also able to create smart traffic lights that do not work on timers for smoother traffic flow. The benefits of this system are that any vehicle can be upgraded to this hardware. Vehicles that are similar to this are currently Tesla’s, but Tesla create vehicles that are autonomous with hardware and software integrated within one another. These vehicles can be quite expensive for the average consumer. To be clear, this will not create self-driving vehicles (autonomous) but give an extra level of safety, security and awareness for what is around you or has been. The codename for this project is...
 
 PROJECT EFAS
 
 #### Motivation
 
-There were 1,145 road deaths in 2018 and 38,945 hospitalised injuries in 2016 (BITRE 2019) involving car crashes across Australia. This should motivate anyone trying to find soliuations to fix such an underlining issue that effects everyone.
-
+There were 1,145 road deaths in 2018 and 38,945 hospitalised injuries in 2016 (BITRE 2019) involving car crashes across Australia. This should motivate anyone trying to find soliuations to fix such an underlining issue that effects everyone. The project has a major playing field being used by the public as well as government organisations in that it links everyone together. Integrated by sophisted software, it be customised to government, personal or general public. Transport agencys will be intertesed as traffic flow will be improved reducing unneccesary red light stopping.
 
 
 
