@@ -56,12 +56,11 @@ This stands for; Extraversion - Intuition - Feeling - Judging
   
 * [Learning style test](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=2&V=9&T=9-) - result; Auditory: 10% - Visual: 45% - Tactile: 45%
 
-This result tells me I remember more things by sight and picture what i'm learning in my head. 
-As a tactile learner, I learn better by touching and doing. I remember by things I have done, but difficult remembering what I heard in the process. 
-
 * Creativity test - result; 53 - Above average 
 
-The results from the Myers-Briggs test tells me that I'm a ENFJ (as shown above) these types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious. The results from the learning Style test shows I remember more things by sight and picture and what i'm learning in my head. Further, as a tactile learner, I learn better by touching and doing. I remember by things I have done, but difficult remembering what I heard in the process. 
+The results from the Myers-Briggs test tells me that I'm a ENFJ (as shown above) these types of people are warm, energetic, forward thinking, visionary, compassionate, ethical, organised and ambitious. The results from the learning Style test shows I remember more things by sight and picture and what i'm learning in my head. Further, as a tactile learner, I learn better by touching and doing. I remember by things I have done, but difficult remembering what I heard in the process. The creativity tests tells me I have an above average creativity score of 53. 
+
+Looking at my results gives a fair idea how I will manage in many things. A big importance in IT is team related. The above results show I  will work well in part of a team as I am compassionate and warm but also great at forward thinking and ambitionous. Great qualities for any team related exercise. But further, my influance as part of a team I work well actually seeing the project and being hands on instead of only talking about it with no clear image what it will be. This also complements my creativity test above average, so should be able to think outside the box.  
 
 
 
