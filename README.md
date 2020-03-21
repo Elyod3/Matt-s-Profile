@@ -94,7 +94,7 @@ The main part of this will require superb software engineers. Will need to inclu
 
 #### Outcome
 
-
+If successful, it will see the majority of people having EFAS installed or a minimum downloading the EFAS app. The outcome will be a safer road network that will be constantly improving with new hardware and software upgrades. To which time in the near future, the impact for the development team will see car manufactures provide EFAS as standalone much similar to how we see CarPlay made available. In summary, the high fatality rate will improve with a combination of vehicle technology like EFAS and road network advances over time, but also comes down to driver responsibility.   
 
 
 
