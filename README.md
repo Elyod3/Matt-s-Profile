@@ -12,7 +12,7 @@ S3858024@student.rmit.edu.au
 Student number: 
 S3858024
 
-I was born in Brisbane and grew up in Brisbane North. I graduated high school in 2006 and started working at EB Games while completing a Diploma in Justice. I worked a bit in security and then worked with the Australian Taxation Office in Facilities Management. 
+I was born in Brisbane and grew up in Brisbane North. I graduated high school in 2006 and started working at EB Games while completing a Diploma in Justice. I worked a bit in security and then worked with the Australian Taxation Office in Facilities Management. Two intersting thing about me is when I was younger I was a junior champion in tennis and I once fell off a horse and broke both my wrists. 
 
 ## Interests in IT
 
@@ -24,7 +24,6 @@ From there I found a passion for the legal system and completed a Diploma in Jus
 
 What lead me to RMIT initially was looking at lots of University's with a focus of IT and flexability with distance. Upon looking at reviews, RMIT looked most suitable to what my needs were and focus for what I'm studying. 
 
-Two intersting thing about me is when I was younger I was a junior champion in tennis and I once fell off a horse and broke both my wrists. 
 
 ## Ideal Job
 
