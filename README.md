@@ -96,7 +96,7 @@ The software and hardware will be integrate within the vehicles Electronic Contr
 
 If successful, it will see the majority of people having EFAS installed or a minimum downloading the EFAS app. The outcome will be a safer road network that will be constantly improving with new hardware and software upgrades. To which time in the near future, the impact for the development team will see car manufactures provide EFAS as standalone much similar to how we see CarPlay made available. In summary, the high fatality rate will improve with a combination of vehicle technology like EFAS and road network advances over time, but also comes down to driver responsibility.   
 
-#### References
+## References
 
 Bureau of Infrastructure, Transport and Regional Economics 2019, Road Trauma Australia—Annual Summaries, accessed 20 March 2020, < https://www.bitre.gov.au/publications/ongoing/road_deaths_australia_annual_summaries>.
 
