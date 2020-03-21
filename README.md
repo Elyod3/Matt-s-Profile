@@ -88,21 +88,9 @@ Talking safety, say if there is a speeding car that is around your area, EFAS wi
 
 The software and hardware will be integrate within the vehicles Electronic Control Unit (ECU). The software will be incredinley complex. To make things run smooth, we'll need to run a few different propgrams; the first is Linux, which is an open source operating system. It acts to receive requests from other software and relay it back to the hardware (What is Linux 2019). The next is the software that is talking to 
 
-
-
-
-
-
 #### Skills Required
 
 The main part of this will require superb software engineers. Will need to included software written in C++ which is a powerful purpose programming language (Cprogramming n.d.). Software engineers will prototype algorithms in Python, Matlab, or even Java. A Globel Positioning System (GPS) will be used to track the EFAS, apps and other hardware eventually used with it. The skills, hardware and software will be no more difficult to find than creating a few simple command lines and a credited supplier It will be about having the governemnt onboard with the project and couldn't be possible without their contribution and support.   
-
-
-
-
-
-
-
 
 #### Outcome
 
