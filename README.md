@@ -107,7 +107,8 @@ accessed 20 March 2020,
 <<https://www.cprogramming.com/begin.html>>.
 
 Opensource 2019, *What is Linux*,
-accessed 20 March 2020,  
+accessed 20 March 2020,
+
 <<https://opensource.com/resources/linux>>.
 
 
