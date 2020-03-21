@@ -86,7 +86,7 @@ Talking safety, say if there is a speeding car that is around your area, EFAS wi
 
 #### Tools and Technologies
 
-The software and hardware will be integrate within the vehicles Electronic Control Unit (ECU). The software will be incredinley complex. To make things run smooth, we'll need to run a few different propgrams; the first is Linux, which is an open source operating system. It acts to receive requests from other software and relay it back to the hardware (What is Linux 2019). The next is the software that is talking to 
+The software and hardware will be integrated within the vehicles Electronic Control Unit (ECU). The software will be incredibly complex. To make things run smooth, we'll need to run a few different programs; the first is Linux, which is an open source operating system. It acts to receive requests from other software and relay it back to the hardware (What is Linux 2019). The hardware has to be adaptable. Every vehicle will have different requirements. For this, customers select their vehicle and model giving them an accurate specification on our website. 
 
 #### Skills Required
 
