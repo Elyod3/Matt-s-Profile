@@ -95,7 +95,7 @@ The software and hardware will be integrate within the vehicles Electronic Contr
 
 #### Skills Required
 
-The main part of this will require superb software engineers. Will need to included software written in C++ which is a powerful purpose programming language (Cprogramming n.d.). Software engineers will prototype algorithms in Python, Matlab, or even Java. A Globel Positioning System (GPS) will be used to track the EFAS, apps and other hardware eventually used with it. 
+The main part of this will require superb software engineers. Will need to included software written in C++ which is a powerful purpose programming language (Cprogramming n.d.). Software engineers will prototype algorithms in Python, Matlab, or even Java. A Globel Positioning System (GPS) will be used to track the EFAS, apps and other hardware eventually used with it. The skills, hardware and software will be no more difficult to find than creating a few simple command lines and a credited supplier It will be about having the governemnt onboard with the project and couldn't be possible without their contribution and support.   
 
 
 
