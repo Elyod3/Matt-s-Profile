@@ -98,7 +98,7 @@ If successful, it will see the majority of people having EFAS installed or a min
 
 ## References
 
-Bureau of Infrastructure, Transport and Regional Economics 2019, *Road Trauma Australia—Annual Summaries, accessed 20 March 2020*,   
+Bureau of Infrastructure, Transport and Regional Economics 2019, *Road Trauma Australia—Annual Summaries*, accessed 20 March 2020,   
 <<https://www.bitre.gov.au/publications/ongoing/road_deaths_australia_annual_summaries>>.
 
 CProgramming n.d., So what is C++ used for 
