@@ -90,8 +90,8 @@ The software and hardware will be integrate within the vehicles Electronic Contr
 
 #### Skills Required
 
-The main part of this will require superb software engineers. Will need to included software written in C++ which is a powerful purpose programming language (Cprogramming n.d.). Software engineers will prototype algorithms in Python, Matlab, or even Java. A Globel Positioning System (GPS) will be used to track the EFAS, apps and other hardware eventually used with it. The skills, hardware and software will be no more difficult to find than creating a few simple command lines and a credited supplier It will be about having the governemnt onboard with the project and couldn't be possible without their contribution and support.   
-
+   The main part of this will require superb software engineers. Will need to included software written in C++ which is a powerful purpose programming language (Cprogramming n.d.). Software engineers will prototype algorithms in Python, Matlab, or even Java. A Global Positioning System (GPS) will be used to track the EFAS, apps and other hardware eventually used with it. The skills, hardware and software will be difficult to find at first and creating the starting point for the command lines. Suppliers with hardware and chips will be constantly looked at and vendor management to find the right link in our goal. More importantly, it will be about having the government onboard with the project and couldn't be possible without their contribution and support.
+   
 #### Outcome
 
 If successful, it will see the majority of people having EFAS installed or a minimum downloading the EFAS app. The outcome will be a safer road network that will be constantly improving with new hardware and software upgrades. To which time in the near future, the impact for the development team will see car manufactures provide EFAS as standalone much similar to how we see CarPlay made available. In summary, the high fatality rate will improve with a combination of vehicle technology like EFAS and road network advances over time, but also comes down to driver responsibility.   
